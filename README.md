@@ -23,7 +23,7 @@
 ```
 git clone https://github.com/livepwn/livepacket.git
 
-cd protocol-analyzer
+cd livepacket
 ```
 - Install the required dependencies:
 ```
@@ -44,7 +44,7 @@ Note: sudo is required for packet capture on most systems.
 Running the Analyzer
 Start the script:
 ```
-sudo python protocol_analyzer.py
+sudo python liveport.py
 Follow the on-screen prompts:
 
 Select a protocol to analyze (TCP, UDP, or HTTP).
