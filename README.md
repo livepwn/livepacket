@@ -3,13 +3,13 @@
 ### A Python-based network protocol analyzer built using the scapy library. This tool captures and analyzes network traffic for protocols like TCP, UDP, and HTTP. It provides an interactive command-line interface (CLI) for users to select protocols and analyze packets in real-time.
 
 ## **Features**
-## **1: Protocol Analysis**: Supports TCP, UDP, and HTTP traffic analysis.
+### 1: Protocol Analysis: Supports TCP, UDP, and HTTP traffic analysis.
 
-## **Interactive CLI**: User-friendly menu for selecting protocols and specifying the number of packets to capture.
+### Interactive CLI: User-friendly menu for selecting protocols and specifying the number of packets to capture.
 
-## **Payload Decoding**: Decodes and displays HTTP payloads for easier analysis.
+### Payload Decoding: Decodes and displays HTTP payloads for easier analysis.
 
-## **Cross-Platform**: Works on Linux, macOS, and Windows (with appropriate permissions).
+### Cross-Platform: Works on Linux, macOS, and Windows (with appropriate permissions).
 
 ## Installation
 ### Prerequisites
